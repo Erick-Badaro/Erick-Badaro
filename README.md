@@ -4,9 +4,6 @@
 
 🎓 Cursando ADS pelo Senac
 
-<a href="https://github.com/Erick-Badaro/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Erick-Badaro&theme=radical" />
-</a>
 
 <a href="https://github.com/Erick-Badaro/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-Badaro&layout=compact&langs_count=8&card_width=320&theme=radical" />
