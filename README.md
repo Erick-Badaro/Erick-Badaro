@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F66F7&center=true&vCenter=true&random=false&width=850&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Erick!👋+;Seja+bem+vindo+ao+meu+Github!)](https://git.io/typing-svg)
 
-🖥️ Sou Desenvolvedor Full Stack 
+Sou desenvolvedor Full Stack com vontade constante de aprender e transformar ideias em soluções digitais que gerem impacto real para o mundo. Acredito que a tecnologia tem o poder de conectar pessoas, simplificar processos e resolver problemas de forma criativa — e é isso que me move todos os dias.
 
-🎓 Cursando ADS pelo Senac
+Minha trajetória na área começou de forma marcante em 2023, no Instituto PROA, onde tive a oportunidade de participar de um projeto com foco em impacto social. Em equipe, desenvolvemos uma plataforma web com jogos e recursos de inteligência artificial, voltada para melhorar a proficiência em língua portuguesa para todas as idades. Essa experiência foi essencial não só para desenvolver minhas hard skills em programação, como também minhas soft skills — especialmente trabalho em equipe, comunicação e colaboração em ambientes multidisciplinares.
+
+Hoje, curso Análise e Desenvolvimento de Sistemas no Senac, aprofundando meus conhecimentos e práticas em tecnologias como HTML, CSS, JavaScript e AngularJS para o front-end, além de Java, SQL e NoSQL para o back-end. Gosto de unir design, lógica e propósito para criar soluções funcionais e intuitivas.
 
 
 <a href="https://github.com/Erick-Badaro/convoychat">
