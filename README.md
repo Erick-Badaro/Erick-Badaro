@@ -1,10 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F66F7&center=true&vCenter=true&random=false&width=850&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Erick!👋+;Seja+bem+vindo+ao+meu+Github!)](https://git.io/typing-svg)
 
-Sou desenvolvedor Full Stack com vontade constante de aprender e transformar ideias em soluções digitais que gerem impacto real para o mundo. Acredito que a tecnologia tem o poder de conectar pessoas, simplificar processos e resolver problemas de forma criativa — e é isso que me move todos os dias.
+Sou desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais que gerem impacto real. Acredito que a tecnologia tem o poder de conectar pessoas, simplificar processos e resolver problemas de forma criativa — e é isso que me move todos os dias.
 
-Minha trajetória na área começou de forma marcante em 2023, no Instituto PROA, onde tive a oportunidade de participar de um projeto com foco em impacto social. Em equipe, desenvolvemos uma plataforma web com jogos e recursos de inteligência artificial, voltada para melhorar a proficiência em língua portuguesa para todas as idades. Essa experiência foi essencial não só para desenvolver minhas hard skills em programação, como também minhas soft skills — especialmente trabalho em equipe, comunicação e colaboração em ambientes multidisciplinares.
+Minha trajetória na área começou em 2023, no Instituto PROA, onde participei de um projeto com foco em impacto social. Em equipe, desenvolvemos uma plataforma web com jogos e recursos de inteligência artificial para melhorar a proficiência em língua portuguesa. Essa experiência foi essencial para o desenvolvimento tanto das minhas hard skills em programação quanto das minhas soft skills, como trabalho em equipe, comunicação e colaboração.
 
-Hoje, curso Análise e Desenvolvimento de Sistemas no Senac, aprofundando meus conhecimentos e práticas em tecnologias como HTML, CSS, JavaScript e AngularJS para o front-end, além de Java, SQL e NoSQL para o back-end. Gosto de unir design, lógica e propósito para criar soluções funcionais e intuitivas.
+Atualmente, sou Estagiário em Engenharia de Software na Blip, onde atuo no desenvolvimento, manutenção e evolução de sistemas e aplicações. Tenho a oportunidade de participar de todas as etapas do ciclo de desenvolvimento de software — desde análise de requisitos até testes e documentação — colaborando na implementação de funcionalidades, correção de bugs e melhorias contínuas. Também participo da aplicação de boas práticas de engenharia, como versionamento, integração contínua, revisão de código e metodologias ágeis, além de aprender diariamente com times multidisciplinares em um ambiente dinâmico e colaborativo.
+
+Paralelamente, curso Análise e Desenvolvimento de Sistemas no Senac, aprofundando meus conhecimentos em front-end (HTML, CSS, JavaScript, AngularJS) e back-end (Java, SpringBoot, SQL e NoSQL). Gosto de unir design, lógica e propósito para criar soluções funcionais, intuitivas e que façam diferença.
+
+Estou em busca de aprender cada vez mais, enfrentar novos desafios e contribuir com projetos inovadores.
 
 
 <a href="https://github.com/Erick-Badaro/convoychat">
