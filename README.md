@@ -10,10 +10,14 @@ Paralelamente, curso Análise e Desenvolvimento de Sistemas no Senac, aprofundan
 
 Estou em busca de aprender cada vez mais, enfrentar novos desafios e contribuir com projetos inovadores.
 
+### 💻 Tech Stack Highlights
 
-<a href="https://github.com/Erick-Badaro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-Badaro&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Badaro&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
