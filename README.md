@@ -33,6 +33,14 @@ Estou em busca de aprender cada vez mais, enfrentar novos desafios e contribuir 
 
 </div>
 
+### 🟩 Latest Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Erick-Badaro&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+
+
 ##
 
 <div> 
