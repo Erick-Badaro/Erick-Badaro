@@ -26,7 +26,6 @@ Estou em busca de aprender cada vez mais, enfrentar novos desafios e contribuir 
   <img align="center" alt="Erick-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erick-Java" height="50" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg>
   <img align="center" alt="Erick-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Erick-Csharp" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1067px-Logo_C_sharp.svg.png">
   <img align="center" alt="Erick-dotnet" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg">
   
 
